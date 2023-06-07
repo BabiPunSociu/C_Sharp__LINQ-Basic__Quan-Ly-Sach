@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\bin\Debug\net6.0\QuanLySach_Linq.exe
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\bin\Debug\net6.0\QuanLySach_Linq.deps.json
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\bin\Debug\net6.0\QuanLySach_Linq.runtimeconfig.json
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\bin\Debug\net6.0\QuanLySach_Linq.dll
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\bin\Debug\net6.0\QuanLySach_Linq.pdb
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\obj\Debug\net6.0\QuanLySach_Linq.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\obj\Debug\net6.0\QuanLySach_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\obj\Debug\net6.0\QuanLySach_Linq.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\obj\Debug\net6.0\QuanLySach_Linq.AssemblyInfo.cs
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\obj\Debug\net6.0\QuanLySach_Linq.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\obj\Debug\net6.0\QuanLySach_Linq.dll
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\obj\Debug\net6.0\refint\QuanLySach_Linq.dll
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\obj\Debug\net6.0\QuanLySach_Linq.pdb
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\obj\Debug\net6.0\QuanLySach_Linq.genruntimeconfig.cache
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\QuanLySach_Linq\QuanLySach_Linq\obj\Debug\net6.0\ref\QuanLySach_Linq.dll
